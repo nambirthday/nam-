@@ -1,0 +1,17 @@
+body{
+    background-color: rgba(39, 38, 45, 0.89);
+    background: antiquewhite;
+}
+header{
+    display:flexbox;
+   align-self: start;
+}
+.content{
+    float: right;
+    width: 25%;
+   
+}
+.Description{
+    float: left;;
+    width: 50%;
+}
